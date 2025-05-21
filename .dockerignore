@@ -1,0 +1,9 @@
+# .dockerignore
+Dockerfile
+run.env
+./uploads/*.txt
+./uploads/*.xlsx
+__app.py
+api.py
+auth.py
+config.py

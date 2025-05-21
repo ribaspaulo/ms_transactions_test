@@ -1,0 +1,10 @@
+[server]
+    enableXsrfProtection=false
+    enableCORS = false
+    headless = true
+    runOnSave = true
+[client]
+    showSidebarNavigation = false
+    toolbarMode = "auto"
+[theme]
+    base = 'dark'
